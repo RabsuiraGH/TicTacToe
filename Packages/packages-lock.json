@@ -21,6 +21,13 @@
       "dependencies": {},
       "hash": "8d071273358e40c503040b5a604149e62d512cd5"
     },
+    "com.rabsuiragh.inspectorpathfield": {
+      "version": "https://github.com/RabsuiraGH/InspectorPathFieldPackage.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0e6e67f09baac458a002cccfc4d93d9269bd05ce"
+    },
     "com.unity.2d.animation": {
       "version": "10.1.3",
       "depth": 1,

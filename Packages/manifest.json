@@ -3,6 +3,7 @@
     "com.madsbangh.easybuttons": "https://github.com/madsbangh/EasyButtons.git#upm",
     "com.rabsuiragh.custominspector": "https://github.com/RabsuiraGH/CustomInspectorPackage.git#upm",
     "com.rabsuiragh.hierarchy2": "https://github.com/RabsuiraGH/Hierarchy2Package.git#upm-preset",
+    "com.rabsuiragh.inspectorpathfield": "https://github.com/RabsuiraGH/InspectorPathFieldPackage.git#upm",
     "com.unity.adaptiveperformance": "5.1.1",
     "com.unity.adaptiveperformance.google.android": "5.1.2",
     "com.unity.collab-proxy": "2.6.0",
