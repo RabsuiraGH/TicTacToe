@@ -3,7 +3,7 @@ using UnityEngine.Rendering;
 
 namespace CodeBase
 {
-    public class GridRenderer
+    public class GridRenderService
     {
         private int _gridSize;
         private float _cellSize;
@@ -16,7 +16,7 @@ namespace CodeBase
         private readonly GameObject _gridObject;
 
 
-        public GridRenderer()
+        public GridRenderService()
         {
             _gridObject = new GameObject("Grid");
 
