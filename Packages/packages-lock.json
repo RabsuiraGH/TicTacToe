@@ -14,6 +14,13 @@
       "dependencies": {},
       "hash": "27900f0d4a33df59bf9b01aadbc8e70f32ddea93"
     },
+    "com.rabsuiragh.ebus": {
+      "version": "https://github.com/RabsuiraGH/EBusPackage.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "50c94e1329443e964b4908bed246ff46026e1c19"
+    },
     "com.rabsuiragh.hierarchy2": {
       "version": "https://github.com/RabsuiraGH/Hierarchy2Package.git#upm-preset",
       "depth": 0,
@@ -26,7 +33,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "b5caad8aa4fc444001b0700e18ff5fb9f6270207"
+      "hash": "9539a8a2e19d36d7699e945b8f4c54638cee524c"
     },
     "com.unity.2d.animation": {
       "version": "10.1.3",
@@ -203,7 +210,7 @@
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.31",
+      "version": "3.0.34",
       "depth": 0,
       "source": "registry",
       "dependencies": {

@@ -1,4 +1,5 @@
 using System;
+using CodeBase.Utilities.LoadAsset;
 using InspectorPathField;
 using UnityEngine;
 
@@ -13,6 +14,7 @@ namespace CodeBase.Config.MarkConfig
         [SerializeField] private PathField _triangleSpritePath;
         [SerializeField] private PathField _squareSpritePath;
 
+        public string GetCross => _crossSpritePath;
 
         public Sprite GetSprite(Marker mark)
         {

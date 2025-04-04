@@ -709,7 +709,8 @@ PlayerSettings:
   webGLWebAssemblyBigInt: 0
   webGLCloseOnQuit: 0
   webWasm2023: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: EBUS_LOG;EBUS_ADVANCED_LOG
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
